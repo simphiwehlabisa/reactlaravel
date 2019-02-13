@@ -64814,8 +64814,8 @@ function (_Component) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\laragon\www\reactlaravel\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\laragon\www\reactlaravel\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/mobileappsdev/Documents/GitHub/reactlaravel/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/mobileappsdev/Documents/GitHub/reactlaravel/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
